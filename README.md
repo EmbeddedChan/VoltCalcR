@@ -72,7 +72,7 @@ https://drive.google.com/file/d/1fZCvlVnNngviCfH5OijgcXDPGe6nhiKl/view?usp=drive
 This application does not request any permissions and does not collect, store, or share any user data.
 ## ☕ Support
 
-If you find this project helpful, you can [buy me a coffee](https://www.paypal.me/didadi2024) via PayPal.
+If you find this app helpful, you can [buy me a coffee](https://www.paypal.me/didadi2024) via PayPal.
 
 Thank you! 🙏
 
