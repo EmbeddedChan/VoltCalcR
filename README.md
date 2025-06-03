@@ -59,6 +59,16 @@ You can fix R2 and let the calculator find R1 accordingly.
 R1 and R2 value ranges can be manually set.
 
 In custom IC mode, please refer to your IC datasheet to define proper resistor limits.
+
+## 📥 Download APK
+
+You can download the latest version of the app below:
+
+👉 [Download OTDR Droid v0.1](https://github.com/chanalex2024/VoltCalcR/releases/download/v1.3/VoltCalcR.apk)
+
+> ⚠️ This is an early version. Please use for testing purposes only. Feedback and suggestions are welcome!
+
+This application does not request any permissions and does not collect, store, or share any user data.
 ## ☕ Support
 
 If you find this project helpful, you can [buy me a coffee](https://www.paypal.me/didadi2024) via PayPal.
