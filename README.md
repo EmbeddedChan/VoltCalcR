@@ -1,5 +1,3 @@
----
-
 VoltCalcR
 VoltCalcR is a feedback resistor calculator for DC-DC converters and adjustable linear regulators. It helps you quickly find optimal resistor values for your target output voltage using a wide range of supported ICs and resistor series.
 
@@ -61,3 +59,8 @@ You can fix R2 and let the calculator find R1 accordingly.
 R1 and R2 value ranges can be manually set.
 
 In custom IC mode, please refer to your IC datasheet to define proper resistor limits.
+## ☕ Support
+
+If you find this project helpful, you can [buy me a coffee](https://www.paypal.me/didadi2024) via PayPal.
+
+Thank you! 🙏
