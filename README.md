@@ -1,4 +1,4 @@
-VoltCalcR
+VoltCalcR (android app)
 VoltCalcR is a feedback resistor calculator for DC-DC converters and adjustable linear regulators. It helps you quickly find optimal resistor values for your target output voltage using a wide range of supported ICs and resistor series.
 
 <p align="center">
