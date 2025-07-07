@@ -65,10 +65,9 @@ In custom IC mode, please refer to your IC datasheet to define proper resistor l
 
 You can download the latest version of the app below:
 
-👉 [Download VoltCalcR V1.3](https://github.com/chanalex2024/VoltCalcR/releases/download/v1.3/VoltCalcR.apk)
+👉 [Download VoltCalcR V1.5](https://github.com/EmbeddedChan/VoltCalcR/raw/main/apk/VoltCalcR15.apk)
 
 
-https://drive.google.com/file/d/1fZCvlVnNngviCfH5OijgcXDPGe6nhiKl/view?usp=drivesdk
 This application does not request any permissions and does not collect, store, or share any user data.
 ## ☕ Support
 
